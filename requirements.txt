@@ -1,5 +1,7 @@
-torch
 ultralytics
 opencv-python
-matplotlib
 numpy
+pandas
+matplotlib
+langchain
+langchain-openai
